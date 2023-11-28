@@ -1,0 +1,49 @@
+﻿@model CrudMVC.Models.StudentModel
+@{
+    ViewBag.Title = "Insert Student";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 offset-md-3">
+            <h2 class="text-center">Create Student</h2>
+
+            @using (Html.BeginForm("Insert", "Student", FormMethod.Post))
+
+            {
+
+                <div class="Form-group">
+
+                    @Html.LabelFor(model => model.Name)
+                    @Html.TextBoxFor(model => model.Name, new { @class = "form-controll" })
+                    @Html.ValidationMessageFor(model => model.Name)
+
+                </div>
+                <br />
+
+                <div class="Form-group">
+
+                    @Html.LabelFor(model => model.City)
+                    @Html.TextBoxFor(model => model.City, new { @class = "form-controll" })
+                    @Html.ValidationMessageFor(model => model.City)
+
+                </div>
+                <br />
+
+                <div class="Form-group">
+
+                    @Html.LabelFor(model => model.Address)
+                    @Html.TextBoxFor(model => model.Address, new { @class = "form-controll" })
+                    @Html.ValidationMessageFor(model => model.Address)
+
+                </div>
+                <br />
+
+                <button type="submit" class="btn btn-primary" onclick="location.href='@Url.Action("GetStudents", "Student")'">Save</button>
+            }
+
+        </div>
+    </div>
+</div>
+
+

@@ -1,0 +1,44 @@
+﻿@model List<CrudMVC.Models.StudentModel>
+@{
+    ViewBag.Title = "GetStudents";
+}
+
+<h2>StudentDetails</h2>
+
+
+
+<button type="button" onclick="location.href='@Url.Action("Insert", "Student")'" class="navbar-brand">Insert Student</button>
+<br />
+<br />
+
+<table border="1">
+
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>City</th>
+        <th>Address</th>
+        <th>Action1</th>
+        <th>Action2</th>
+    </tr>
+
+    @foreach (var student in Model)
+    {
+        <tr>
+            <td>@student.Id</td>
+            <td>@student.Name</td>
+            <td>@student.City</td>
+            <td>@student.Address</td>
+            <td>
+                <button type="button" onclick="location.href='@Url.Action("Edit", "Student", new {id=student.Id})'" class="navbar-brand">Edit</button>
+            </td>
+ 
+              <td>
+                  <button type="button" onclick="location.href='@Url.Action("Delete", "Student", new {id=student.Id})'" class="navbar-brand">Delete</button>
+              </td>
+
+        </tr>
+    }
+
+
+</table>
