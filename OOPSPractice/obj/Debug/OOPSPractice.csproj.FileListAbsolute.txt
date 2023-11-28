@@ -1,0 +1,7 @@
+C:\Users\kakar\OneDrive\Desktop\C#\OOPSPractice\bin\Debug\OOPSPractice.exe
+C:\Users\kakar\OneDrive\Desktop\C#\OOPSPractice\bin\Debug\OOPSPractice.pdb
+C:\Users\kakar\OneDrive\Desktop\C#\OOPSPractice\obj\Debug\OOPSPractice.csproj.AssemblyReference.cache
+C:\Users\kakar\OneDrive\Desktop\C#\OOPSPractice\obj\Debug\OOPSPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\kakar\OneDrive\Desktop\C#\OOPSPractice\obj\Debug\OOPSPractice.csproj.CoreCompileInputs.cache
+C:\Users\kakar\OneDrive\Desktop\C#\OOPSPractice\obj\Debug\OOPSPractice.exe
+C:\Users\kakar\OneDrive\Desktop\C#\OOPSPractice\obj\Debug\OOPSPractice.pdb

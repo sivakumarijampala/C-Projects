@@ -1,0 +1,14 @@
+C:\Users\kakar\OneDrive\Desktop\C#\LinqToSql\bin\Debug\Employee.mdf
+C:\Users\kakar\OneDrive\Desktop\C#\LinqToSql\bin\Debug\Employee_log.ldf
+C:\Users\kakar\OneDrive\Desktop\C#\LinqToSql\bin\Debug\LinqToSql.exe.config
+C:\Users\kakar\OneDrive\Desktop\C#\LinqToSql\bin\Debug\LinqToSql.exe
+C:\Users\kakar\OneDrive\Desktop\C#\LinqToSql\bin\Debug\LinqToSql.pdb
+C:\Users\kakar\OneDrive\Desktop\C#\LinqToSql\obj\Debug\LinqToSql.csproj.AssemblyReference.cache
+C:\Users\kakar\OneDrive\Desktop\C#\LinqToSql\obj\Debug\LinqToSql.csproj.SuggestedBindingRedirects.cache
+C:\Users\kakar\OneDrive\Desktop\C#\LinqToSql\obj\Debug\LinqToSql.Form1.resources
+C:\Users\kakar\OneDrive\Desktop\C#\LinqToSql\obj\Debug\LinqToSql.Properties.Resources.resources
+C:\Users\kakar\OneDrive\Desktop\C#\LinqToSql\obj\Debug\LinqToSql.csproj.GenerateResource.cache
+C:\Users\kakar\OneDrive\Desktop\C#\LinqToSql\obj\Debug\LinqToSql.csproj.CoreCompileInputs.cache
+C:\Users\kakar\OneDrive\Desktop\C#\LinqToSql\obj\Debug\LinqToSql.exe
+C:\Users\kakar\OneDrive\Desktop\C#\LinqToSql\obj\Debug\LinqToSql.pdb
+C:\Users\kakar\OneDrive\Desktop\C#\LinqToSql\obj\Debug\LinqToSql.Form2.resources

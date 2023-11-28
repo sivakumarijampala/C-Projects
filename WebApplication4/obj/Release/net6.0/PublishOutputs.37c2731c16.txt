@@ -1,0 +1,11 @@
+C:\Users\kakar\OneDrive\Desktop\C#\WebApplication4\obj\Release\net6.0\PubTmp\Out\WebApplication4.exe
+C:\Users\kakar\OneDrive\Desktop\C#\WebApplication4\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\kakar\OneDrive\Desktop\C#\WebApplication4\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\kakar\OneDrive\Desktop\C#\WebApplication4\obj\Release\net6.0\PubTmp\Out\WebApplication4.dll
+C:\Users\kakar\OneDrive\Desktop\C#\WebApplication4\obj\Release\net6.0\PubTmp\Out\WebApplication4.deps.json
+C:\Users\kakar\OneDrive\Desktop\C#\WebApplication4\obj\Release\net6.0\PubTmp\Out\WebApplication4.runtimeconfig.json
+C:\Users\kakar\OneDrive\Desktop\C#\WebApplication4\obj\Release\net6.0\PubTmp\Out\WebApplication4.pdb
+C:\Users\kakar\OneDrive\Desktop\C#\WebApplication4\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\kakar\OneDrive\Desktop\C#\WebApplication4\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kakar\OneDrive\Desktop\C#\WebApplication4\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kakar\OneDrive\Desktop\C#\WebApplication4\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

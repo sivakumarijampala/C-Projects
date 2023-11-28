@@ -1,0 +1,8 @@
+C:\Users\kakar\OneDrive\Desktop\C#\Practice\bin\Debug\Practice.exe.config
+C:\Users\kakar\OneDrive\Desktop\C#\Practice\bin\Debug\Practice.exe
+C:\Users\kakar\OneDrive\Desktop\C#\Practice\bin\Debug\Practice.pdb
+C:\Users\kakar\OneDrive\Desktop\C#\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+C:\Users\kakar\OneDrive\Desktop\C#\Practice\obj\Debug\Practice.csproj.SuggestedBindingRedirects.cache
+C:\Users\kakar\OneDrive\Desktop\C#\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\kakar\OneDrive\Desktop\C#\Practice\obj\Debug\Practice.exe
+C:\Users\kakar\OneDrive\Desktop\C#\Practice\obj\Debug\Practice.pdb

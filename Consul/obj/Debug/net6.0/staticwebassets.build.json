@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LkO/8h0lua1lYyrFREtndVBqQep0dH6/z39Enk75YIs=",
+  "Source": "Consul",
+  "BasePath": "_content/Consul",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

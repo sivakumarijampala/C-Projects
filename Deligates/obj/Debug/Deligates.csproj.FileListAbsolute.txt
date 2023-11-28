@@ -1,0 +1,7 @@
+C:\Users\kakar\OneDrive\Desktop\C#\Deligates\bin\Debug\Deligates.exe
+C:\Users\kakar\OneDrive\Desktop\C#\Deligates\bin\Debug\Deligates.pdb
+C:\Users\kakar\OneDrive\Desktop\C#\Deligates\obj\Debug\Deligates.csproj.AssemblyReference.cache
+C:\Users\kakar\OneDrive\Desktop\C#\Deligates\obj\Debug\Deligates.csproj.SuggestedBindingRedirects.cache
+C:\Users\kakar\OneDrive\Desktop\C#\Deligates\obj\Debug\Deligates.csproj.CoreCompileInputs.cache
+C:\Users\kakar\OneDrive\Desktop\C#\Deligates\obj\Debug\Deligates.exe
+C:\Users\kakar\OneDrive\Desktop\C#\Deligates\obj\Debug\Deligates.pdb

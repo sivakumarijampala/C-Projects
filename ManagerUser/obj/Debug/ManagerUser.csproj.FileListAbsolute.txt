@@ -1,0 +1,6 @@
+C:\Users\kakar\OneDrive\Desktop\C#\ManagerUser\bin\Debug\ManagerUser.dll
+C:\Users\kakar\OneDrive\Desktop\C#\ManagerUser\bin\Debug\ManagerUser.pdb
+C:\Users\kakar\OneDrive\Desktop\C#\ManagerUser\obj\Debug\ManagerUser.csproj.AssemblyReference.cache
+C:\Users\kakar\OneDrive\Desktop\C#\ManagerUser\obj\Debug\ManagerUser.csproj.CoreCompileInputs.cache
+C:\Users\kakar\OneDrive\Desktop\C#\ManagerUser\obj\Debug\ManagerUser.dll
+C:\Users\kakar\OneDrive\Desktop\C#\ManagerUser\obj\Debug\ManagerUser.pdb

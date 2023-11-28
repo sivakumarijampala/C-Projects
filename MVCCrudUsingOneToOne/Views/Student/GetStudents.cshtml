@@ -1,0 +1,35 @@
+﻿@model List<MVCCrudUsingOneToOne.Models.Student>
+@{
+    ViewBag.Title = "GetStudents";
+}
+
+<h2>GetStudents</h2>
+<br/>
+<br/>
+<button type="submit" onclick="location.href='@Url.Action("Insert","Student")'">Add Student</button>
+<br/>
+<br/>
+
+<table border="1">
+    <tr>
+        <th>StudentId</th>
+        <th>StudentName</th>
+        <th>StudentAge</th>
+        <th>DepartmentName</th>
+        <th>Location</th>
+        <th>Action1</th>
+        <th>Action2</th>
+    </tr>
+    @foreach(var items in Model)
+            {
+                <tr>
+                    <td>@items.StudentId</td>
+                    <td>@items.StudentName</td>
+                    <td>@items.StudentAge</td>
+                    <td>@items.Department.DeptName</td>
+                    <td>@items.Department.Location</td>
+                    <td><button type="submit" onclick="location.href ='@Url.Action("Edit","Student", new {id=items.StudentId})'">Edit</button></td>
+                    <td><button type="submit" onclick="location.href='@Url.Action("Delete", "Student", new {id=items.StudentId})'">Delete</button></td>
+                </tr>
+            }
+</table>

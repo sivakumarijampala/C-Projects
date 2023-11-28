@@ -1,0 +1,25 @@
+﻿
+
+
+@model  CodeFirst.Models.Student
+
+
+@using (Html.BeginForm("Edit", "Student", FormMethod.Post))
+{
+    @Html.HiddenFor(model => model.ID)
+
+    <div class="Form-group">
+        @Html.LabelFor(model => model.Name)
+        @Html.TextBoxFor(model => model.Name, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.Name)
+    </div>
+
+    <div class="Form-group">
+        @Html.LabelFor(model => model.Age)
+        @Html.TextBoxFor(model => model.Age, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.Age)
+    </div>
+
+  
+    <button type="submit" class="btn btn-primary">Save</button>
+}

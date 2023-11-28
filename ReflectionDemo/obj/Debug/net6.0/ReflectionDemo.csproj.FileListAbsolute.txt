@@ -1,0 +1,15 @@
+C:\Users\kakar\OneDrive\Desktop\C#\ReflectionDemo\bin\Debug\net6.0\ReflectionDemo.exe
+C:\Users\kakar\OneDrive\Desktop\C#\ReflectionDemo\bin\Debug\net6.0\ReflectionDemo.deps.json
+C:\Users\kakar\OneDrive\Desktop\C#\ReflectionDemo\bin\Debug\net6.0\ReflectionDemo.runtimeconfig.json
+C:\Users\kakar\OneDrive\Desktop\C#\ReflectionDemo\bin\Debug\net6.0\ReflectionDemo.dll
+C:\Users\kakar\OneDrive\Desktop\C#\ReflectionDemo\bin\Debug\net6.0\ReflectionDemo.pdb
+C:\Users\kakar\OneDrive\Desktop\C#\ReflectionDemo\obj\Debug\net6.0\ReflectionDemo.csproj.AssemblyReference.cache
+C:\Users\kakar\OneDrive\Desktop\C#\ReflectionDemo\obj\Debug\net6.0\ReflectionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kakar\OneDrive\Desktop\C#\ReflectionDemo\obj\Debug\net6.0\ReflectionDemo.AssemblyInfoInputs.cache
+C:\Users\kakar\OneDrive\Desktop\C#\ReflectionDemo\obj\Debug\net6.0\ReflectionDemo.AssemblyInfo.cs
+C:\Users\kakar\OneDrive\Desktop\C#\ReflectionDemo\obj\Debug\net6.0\ReflectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\kakar\OneDrive\Desktop\C#\ReflectionDemo\obj\Debug\net6.0\ReflectionDemo.dll
+C:\Users\kakar\OneDrive\Desktop\C#\ReflectionDemo\obj\Debug\net6.0\refint\ReflectionDemo.dll
+C:\Users\kakar\OneDrive\Desktop\C#\ReflectionDemo\obj\Debug\net6.0\ReflectionDemo.pdb
+C:\Users\kakar\OneDrive\Desktop\C#\ReflectionDemo\obj\Debug\net6.0\ReflectionDemo.genruntimeconfig.cache
+C:\Users\kakar\OneDrive\Desktop\C#\ReflectionDemo\obj\Debug\net6.0\ref\ReflectionDemo.dll

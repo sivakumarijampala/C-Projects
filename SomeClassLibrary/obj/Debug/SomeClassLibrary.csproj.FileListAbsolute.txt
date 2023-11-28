@@ -1,0 +1,6 @@
+C:\Users\kakar\OneDrive\Desktop\C#\SomeClassLibrary\bin\Debug\SomeClassLibrary.dll
+C:\Users\kakar\OneDrive\Desktop\C#\SomeClassLibrary\bin\Debug\SomeClassLibrary.pdb
+C:\Users\kakar\OneDrive\Desktop\C#\SomeClassLibrary\obj\Debug\SomeClassLibrary.csproj.AssemblyReference.cache
+C:\Users\kakar\OneDrive\Desktop\C#\SomeClassLibrary\obj\Debug\SomeClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kakar\OneDrive\Desktop\C#\SomeClassLibrary\obj\Debug\SomeClassLibrary.dll
+C:\Users\kakar\OneDrive\Desktop\C#\SomeClassLibrary\obj\Debug\SomeClassLibrary.pdb

@@ -1,0 +1,6 @@
+C:\Users\kakar\OneDrive\Desktop\C#\SportsProject\SportsClubDataBase\obj\Debug\net6.0\SportsClubDataBase.csproj.AssemblyReference.cache
+C:\Users\kakar\OneDrive\Desktop\C#\SportsProject\SportsClubDataBase\obj\Debug\net6.0\SportsClubDataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kakar\OneDrive\Desktop\C#\SportsProject\SportsClubDataBase\obj\Debug\net6.0\SportsClubDataBase.AssemblyInfoInputs.cache
+C:\Users\kakar\OneDrive\Desktop\C#\SportsProject\SportsClubDataBase\obj\Debug\net6.0\SportsClubDataBase.AssemblyInfo.cs
+C:\Users\kakar\OneDrive\Desktop\C#\SportsProject\SportsClubDataBase\obj\Debug\net6.0\SportsClubDataBase.csproj.CoreCompileInputs.cache
+C:\Users\kakar\OneDrive\Desktop\C#\SportsProject\SportsClubDataBase\obj\Debug\net6.0\SportsClubDataBase.MvcApplicationPartsAssemblyInfo.cache

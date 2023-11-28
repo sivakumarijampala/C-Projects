@@ -1,0 +1,17 @@
+C:\Users\kakar\OneDrive\Desktop\C#\Employee\bin\Debug\Employee.exe.config
+C:\Users\kakar\OneDrive\Desktop\C#\Employee\bin\Debug\Employee.exe
+C:\Users\kakar\OneDrive\Desktop\C#\Employee\bin\Debug\Employee.pdb
+C:\Users\kakar\OneDrive\Desktop\C#\Employee\bin\Debug\System.Memory.dll
+C:\Users\kakar\OneDrive\Desktop\C#\Employee\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kakar\OneDrive\Desktop\C#\Employee\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kakar\OneDrive\Desktop\C#\Employee\bin\Debug\System.Buffers.dll
+C:\Users\kakar\OneDrive\Desktop\C#\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+C:\Users\kakar\OneDrive\Desktop\C#\Employee\obj\Debug\Employee.csproj.SuggestedBindingRedirects.cache
+C:\Users\kakar\OneDrive\Desktop\C#\Employee\obj\Debug\Employee.Form1.resources
+C:\Users\kakar\OneDrive\Desktop\C#\Employee\obj\Debug\Employee.Form2.resources
+C:\Users\kakar\OneDrive\Desktop\C#\Employee\obj\Debug\Employee.Properties.Resources.resources
+C:\Users\kakar\OneDrive\Desktop\C#\Employee\obj\Debug\Employee.csproj.GenerateResource.cache
+C:\Users\kakar\OneDrive\Desktop\C#\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\kakar\OneDrive\Desktop\C#\Employee\obj\Debug\Employee.csproj.CopyComplete
+C:\Users\kakar\OneDrive\Desktop\C#\Employee\obj\Debug\Employee.exe
+C:\Users\kakar\OneDrive\Desktop\C#\Employee\obj\Debug\Employee.pdb

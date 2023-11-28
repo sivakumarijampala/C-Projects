@@ -1,0 +1,8 @@
+C:\Users\kakar\OneDrive\Desktop\C#\Linq\bin\Debug\Linq.exe.config
+C:\Users\kakar\OneDrive\Desktop\C#\Linq\bin\Debug\Linq.exe
+C:\Users\kakar\OneDrive\Desktop\C#\Linq\bin\Debug\Linq.pdb
+C:\Users\kakar\OneDrive\Desktop\C#\Linq\obj\Debug\Linq.csproj.AssemblyReference.cache
+C:\Users\kakar\OneDrive\Desktop\C#\Linq\obj\Debug\Linq.csproj.SuggestedBindingRedirects.cache
+C:\Users\kakar\OneDrive\Desktop\C#\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+C:\Users\kakar\OneDrive\Desktop\C#\Linq\obj\Debug\Linq.exe
+C:\Users\kakar\OneDrive\Desktop\C#\Linq\obj\Debug\Linq.pdb

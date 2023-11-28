@@ -1,0 +1,31 @@
+﻿@model MVCCrudUsingOneToMany.Models.Student
+@{
+    ViewBag.Title = "Insert";
+}
+
+<h2>Insert</h2>
+@using (Html.BeginForm("Insert", "Student", FormMethod.Post))
+{
+    <div class="form-control">
+        @Html.LabelFor(model => model.StudName)
+        @Html.TextBoxFor(model => model.StudName)
+    </div>
+    <br />
+    <div class="form-control">
+        @Html.LabelFor(model => model.StudAge)
+        @Html.TextBoxFor(model => model.StudAge)
+    </div>
+    <br />
+    <div class="form-control">
+        @Html.LabelFor(model => model.Department.DeptName)
+        @Html.TextBoxFor(model => model.Department.DeptName)
+
+    </div>
+    <br />
+    <div>
+        @Html.LabelFor(model => model.Department.Location)
+        @Html.TextBoxFor(model => model.Department.Location)
+    </div>
+
+    <button type="submit">Save</button>
+}

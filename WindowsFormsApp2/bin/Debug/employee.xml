@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Employee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>siva</name>
+  <phone>5656767678</phone>
+  <dob>2023-06-06T10:14:01</dob>
+  <department>cs</department>
+  <salary>10000</salary>
+</Employee>
