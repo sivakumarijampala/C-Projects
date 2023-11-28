@@ -1,0 +1,14 @@
+C:\Users\kakar\OneDrive\Desktop\C#\Assembly\bin\Debug\Assembly.exe.config
+C:\Users\kakar\OneDrive\Desktop\C#\Assembly\bin\Debug\Assembly.exe
+C:\Users\kakar\OneDrive\Desktop\C#\Assembly\bin\Debug\Assembly.pdb
+C:\Users\kakar\OneDrive\Desktop\C#\Assembly\bin\Debug\ManagerUser.dll
+C:\Users\kakar\OneDrive\Desktop\C#\Assembly\bin\Debug\ManagerUser.pdb
+C:\Users\kakar\OneDrive\Desktop\C#\Assembly\obj\Debug\Assembly.csproj.AssemblyReference.cache
+C:\Users\kakar\OneDrive\Desktop\C#\Assembly\obj\Debug\Assembly.csproj.SuggestedBindingRedirects.cache
+C:\Users\kakar\OneDrive\Desktop\C#\Assembly\obj\Debug\Assembly.Form1.resources
+C:\Users\kakar\OneDrive\Desktop\C#\Assembly\obj\Debug\Assembly.Properties.Resources.resources
+C:\Users\kakar\OneDrive\Desktop\C#\Assembly\obj\Debug\Assembly.csproj.GenerateResource.cache
+C:\Users\kakar\OneDrive\Desktop\C#\Assembly\obj\Debug\Assembly.csproj.CoreCompileInputs.cache
+C:\Users\kakar\OneDrive\Desktop\C#\Assembly\obj\Debug\Assembly.csproj.CopyComplete
+C:\Users\kakar\OneDrive\Desktop\C#\Assembly\obj\Debug\Assembly.exe
+C:\Users\kakar\OneDrive\Desktop\C#\Assembly\obj\Debug\Assembly.pdb
