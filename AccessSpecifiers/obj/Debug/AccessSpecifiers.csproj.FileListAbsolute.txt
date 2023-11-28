@@ -1,0 +1,8 @@
+C:\Users\kakar\OneDrive\Desktop\C#\AccessSpecifiers\bin\Debug\AccessSpecifiers.exe.config
+C:\Users\kakar\OneDrive\Desktop\C#\AccessSpecifiers\bin\Debug\AccessSpecifiers.exe
+C:\Users\kakar\OneDrive\Desktop\C#\AccessSpecifiers\bin\Debug\AccessSpecifiers.pdb
+C:\Users\kakar\OneDrive\Desktop\C#\AccessSpecifiers\obj\Debug\AccessSpecifiers.csproj.AssemblyReference.cache
+C:\Users\kakar\OneDrive\Desktop\C#\AccessSpecifiers\obj\Debug\AccessSpecifiers.csproj.SuggestedBindingRedirects.cache
+C:\Users\kakar\OneDrive\Desktop\C#\AccessSpecifiers\obj\Debug\AccessSpecifiers.csproj.CoreCompileInputs.cache
+C:\Users\kakar\OneDrive\Desktop\C#\AccessSpecifiers\obj\Debug\AccessSpecifiers.exe
+C:\Users\kakar\OneDrive\Desktop\C#\AccessSpecifiers\obj\Debug\AccessSpecifiers.pdb
