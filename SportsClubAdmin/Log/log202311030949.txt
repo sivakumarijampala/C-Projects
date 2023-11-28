@@ -1,0 +1,35 @@
+2023-11-03 09:49:23.242 +05:30 [INF] User profile is available. Using 'C:\Users\kakar\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-11-03 09:49:23.352 +05:30 [INF] Creating key {8d733799-4553-422d-8fea-f1fdd2c86c0e} with creation date 2023-11-03 04:19:23Z, activation date 2023-11-03 04:19:23Z, and expiration date 2024-02-01 04:19:23Z.
+2023-11-03 09:49:23.361 +05:30 [INF] Writing data to file 'C:\Users\kakar\AppData\Local\ASP.NET\DataProtection-Keys\key-8d733799-4553-422d-8fea-f1fdd2c86c0e.xml'.
+2023-11-03 09:49:24.090 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-11-03 09:49:24.090 +05:30 [INF] Hosting environment: Development
+2023-11-03 09:49:24.090 +05:30 [INF] Content root path: C:\Users\kakar\OneDrive\Desktop\C#\SportsClubAdmin
+2023-11-03 09:49:24.121 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:10697/swagger - -
+2023-11-03 09:49:25.072 +05:30 [INF] HTTP GET /swagger responded 301 in 920.2106 ms
+2023-11-03 09:49:25.086 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:10697/swagger/index.html - -
+2023-11-03 09:49:25.087 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:10697/swagger - - - 301 - - 969.7681ms
+2023-11-03 09:49:25.326 +05:30 [INF] HTTP GET /swagger/index.html responded 200 in 239.7768 ms
+2023-11-03 09:49:25.328 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:10697/swagger/swagger-ui.css - -
+2023-11-03 09:49:25.329 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:10697/swagger/index.html - - - 200 - text/html;charset=utf-8 242.8472ms
+2023-11-03 09:49:25.329 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:10697/swagger/swagger-ui-bundle.js - -
+2023-11-03 09:49:25.329 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:10697/swagger/swagger-ui-standalone-preset.js - -
+2023-11-03 09:49:25.329 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:10697/_framework/aspnetcore-browser-refresh.js - -
+2023-11-03 09:49:25.336 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:10697/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 4.0435ms
+2023-11-03 09:49:25.338 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:10697/_vs/browserLink - -
+2023-11-03 09:49:25.346 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2023-11-03 09:49:25.346 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2023-11-03 09:49:25.346 +05:30 [INF] HTTP GET /swagger/swagger-ui.css responded 200 in 17.5030 ms
+2023-11-03 09:49:25.346 +05:30 [INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 16.9174 ms
+2023-11-03 09:49:25.349 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:10697/swagger/swagger-ui.css - - - 200 143632 text/css 20.5839ms
+2023-11-03 09:49:25.349 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2023-11-03 09:49:25.349 +05:30 [INF] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 19.9487 ms
+2023-11-03 09:49:25.356 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:10697/swagger/swagger-ui-standalone-preset.js - - - 200 337162 application/javascript 26.2594ms
+2023-11-03 09:49:25.387 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:10697/swagger/swagger-ui-bundle.js - - - 200 1092889 application/javascript 58.1239ms
+2023-11-03 09:49:25.437 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:10697/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 98.9874ms
+2023-11-03 09:49:25.509 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:10697/swagger/v1/swagger.json - -
+2023-11-03 09:49:25.536 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:10697/swagger/favicon-32x32.png - -
+2023-11-03 09:49:25.536 +05:30 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2023-11-03 09:49:25.536 +05:30 [INF] HTTP GET /swagger/favicon-32x32.png responded 200 in 0.5937 ms
+2023-11-03 09:49:25.537 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:10697/swagger/favicon-32x32.png - - - 200 628 image/png 0.9312ms
+2023-11-03 09:49:25.625 +05:30 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 115.9395 ms
+2023-11-03 09:49:25.626 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:10697/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 117.3354ms

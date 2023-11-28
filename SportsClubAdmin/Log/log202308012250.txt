@@ -1,0 +1,20 @@
+2023-08-01 22:50:47.272 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:10697/_framework/aspnetcore-browser-refresh.js - -
+2023-08-01 22:50:47.275 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:10697/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 2.9743ms
+2023-08-01 22:50:47.282 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:10697/_vs/browserLink - -
+2023-08-01 22:50:47.316 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:10697/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 33.7778ms
+2023-08-01 22:50:47.374 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:10697/swagger/v1/swagger.json - -
+2023-08-01 22:50:47.381 +05:30 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 6.6927 ms
+2023-08-01 22:50:47.381 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:10697/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 7.1347ms
+2023-08-01 22:50:56.270 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:10697/api/Courts/getallcourts - -
+2023-08-01 22:50:56.271 +05:30 [INF] Executing endpoint 'SportClubProject.AdminController.CourtsController.GetAllCourts (SportsClubAdmin)'
+2023-08-01 22:50:56.273 +05:30 [INF] Route matched with {action = "GetAllCourts", controller = "Courts"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[Models.Courts] GetAllCourts() on controller SportClubProject.AdminController.CourtsController (SportsClubAdmin).
+2023-08-01 22:50:56.275 +05:30 [INF] entered get all courts method
+2023-08-01 22:50:56.275 +05:30 [INF] entered into get all courts method in courts repository impl
+2023-08-01 22:50:56.308 +05:30 [INF] Executed DbCommand (17ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[CourtId], [c].[CourtImageUrl], [c].[CourtName], [c].[CourtPrice], [c].[SportsSportId], [c].[Status], [c].[category]
+FROM [Courts] AS [c]
+2023-08-01 22:50:56.309 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Models.Courts, Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-08-01 22:50:56.310 +05:30 [INF] Executed action SportClubProject.AdminController.CourtsController.GetAllCourts (SportsClubAdmin) in 36.6192ms
+2023-08-01 22:50:56.310 +05:30 [INF] Executed endpoint 'SportClubProject.AdminController.CourtsController.GetAllCourts (SportsClubAdmin)'
+2023-08-01 22:50:56.310 +05:30 [INF] HTTP GET /api/Courts/getallcourts responded 200 in 39.3672 ms
+2023-08-01 22:50:56.310 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:10697/api/Courts/getallcourts - - - 200 - application/json;+charset=utf-8 39.7592ms
