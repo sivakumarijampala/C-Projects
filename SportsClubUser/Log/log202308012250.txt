@@ -1,0 +1,6 @@
+2023-08-01 22:50:45.183 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:55225/_framework/aspnetcore-browser-refresh.js - -
+2023-08-01 22:50:45.188 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:55225/_framework/aspnetcore-browser-refresh.js - - - 200 11998 application/javascript;+charset=utf-8 4.8040ms
+2023-08-01 22:50:45.193 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:55225/_vs/browserLink - -
+2023-08-01 22:50:45.226 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:55225/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 33.4994ms
+2023-08-01 22:50:45.268 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:55225/swagger/v1/swagger.json - -
+2023-08-01 22:50:45.275 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:55225/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 7.3496ms

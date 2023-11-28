@@ -1,0 +1,19 @@
+2023-08-01 19:05:01.584 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-01 19:05:01.603 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:55225/swagger/index.html - -
+2023-08-01 19:05:01.620 +05:30 [INF] Hosting environment: Development
+2023-08-01 19:05:01.620 +05:30 [INF] Content root path: C:\Users\kakar\OneDrive\Desktop\C#\SportsClubUser\
+2023-08-01 19:05:01.972 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:55225/swagger/index.html - - - 200 - text/html;charset=utf-8 374.0329ms
+2023-08-01 19:05:01.973 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:55225/_vs/browserLink - -
+2023-08-01 19:05:01.973 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:55225/_framework/aspnetcore-browser-refresh.js - -
+2023-08-01 19:05:01.978 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:55225/_framework/aspnetcore-browser-refresh.js - - - 200 11998 application/javascript;+charset=utf-8 3.3827ms
+2023-08-01 19:05:02.010 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:55225/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 37.1826ms
+2023-08-01 19:05:02.123 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:55225/swagger/v1/swagger.json - -
+2023-08-01 19:05:02.210 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:55225/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 86.7577ms
+2023-08-01 19:05:12.618 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:55225/swagger/index.html - -
+2023-08-01 19:05:12.637 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:55225/swagger/index.html - - - 200 - text/html;charset=utf-8 19.1059ms
+2023-08-01 19:05:12.751 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:55225/_framework/aspnetcore-browser-refresh.js - -
+2023-08-01 19:05:12.753 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:55225/_framework/aspnetcore-browser-refresh.js - - - 200 11998 application/javascript;+charset=utf-8 2.3356ms
+2023-08-01 19:05:12.806 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:55225/_vs/browserLink - -
+2023-08-01 19:05:12.843 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:55225/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 37.1242ms
+2023-08-01 19:05:12.938 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:55225/swagger/v1/swagger.json - -
+2023-08-01 19:05:12.959 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:55225/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 21.0063ms

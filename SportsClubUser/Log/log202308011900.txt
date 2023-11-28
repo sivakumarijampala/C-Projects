@@ -1,0 +1,11 @@
+2023-08-01 19:00:24.965 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-01 19:00:24.981 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:55225/swagger/index.html - -
+2023-08-01 19:00:24.995 +05:30 [INF] Hosting environment: Development
+2023-08-01 19:00:24.995 +05:30 [INF] Content root path: C:\Users\kakar\OneDrive\Desktop\C#\SportsClubUser\
+2023-08-01 19:00:25.267 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:55225/_vs/browserLink - -
+2023-08-01 19:00:25.267 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:55225/_framework/aspnetcore-browser-refresh.js - -
+2023-08-01 19:00:25.268 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:55225/swagger/index.html - - - 200 - text/html;charset=utf-8 290.8312ms
+2023-08-01 19:00:25.273 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:55225/_framework/aspnetcore-browser-refresh.js - - - 200 11998 application/javascript;+charset=utf-8 3.6989ms
+2023-08-01 19:00:25.304 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:55225/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 37.1143ms
+2023-08-01 19:00:25.736 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:55225/swagger/v1/swagger.json - -
+2023-08-01 19:00:25.830 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:55225/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 93.7061ms

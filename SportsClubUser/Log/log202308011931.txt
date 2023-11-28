@@ -1,0 +1,22 @@
+2023-08-01 19:31:23.453 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-01 19:31:23.467 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:55225/swagger/index.html - -
+2023-08-01 19:31:23.478 +05:30 [INF] Hosting environment: Development
+2023-08-01 19:31:23.478 +05:30 [INF] Content root path: C:\Users\kakar\OneDrive\Desktop\C#\SportsClubUser\
+2023-08-01 19:31:23.791 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:55225/_framework/aspnetcore-browser-refresh.js - -
+2023-08-01 19:31:23.791 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:55225/_vs/browserLink - -
+2023-08-01 19:31:23.794 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:55225/swagger/index.html - - - 200 - text/html;charset=utf-8 329.5155ms
+2023-08-01 19:31:23.798 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:55225/_framework/aspnetcore-browser-refresh.js - - - 200 11998 application/javascript;+charset=utf-8 4.1158ms
+2023-08-01 19:31:23.828 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:55225/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 36.1091ms
+2023-08-01 19:31:23.893 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:55225/swagger/v1/swagger.json - -
+2023-08-01 19:31:23.990 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:55225/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 97.0834ms
+2023-08-01 19:31:57.907 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-01 19:31:57.925 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:55225/swagger/index.html - -
+2023-08-01 19:31:57.934 +05:30 [INF] Hosting environment: Development
+2023-08-01 19:31:57.934 +05:30 [INF] Content root path: C:\Users\kakar\OneDrive\Desktop\C#\SportsClubUser\
+2023-08-01 19:31:58.190 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:55225/_framework/aspnetcore-browser-refresh.js - -
+2023-08-01 19:31:58.193 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:55225/swagger/index.html - - - 200 - text/html;charset=utf-8 271.0184ms
+2023-08-01 19:31:58.196 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:55225/_framework/aspnetcore-browser-refresh.js - - - 200 11998 application/javascript;+charset=utf-8 4.3482ms
+2023-08-01 19:31:58.199 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:55225/_vs/browserLink - -
+2023-08-01 19:31:58.237 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:55225/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 38.0193ms
+2023-08-01 19:31:58.303 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:55225/swagger/v1/swagger.json - -
+2023-08-01 19:31:58.414 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:55225/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 110.7306ms

@@ -1,0 +1,15 @@
+2023-11-03 12:08:44.860 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:55225/api/Sports/getsports - -
+2023-11-03 12:08:44.863 +05:30 [INF] CORS policy execution successful.
+2023-11-03 12:08:44.863 +05:30 [INF] Executing endpoint 'SportClubProject.UserControllers.SportsController.GetAllSports (SportsClubUser)'
+2023-11-03 12:08:44.865 +05:30 [INF] Route matched with {action = "GetAllSports", controller = "Sports"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[Models.Sports]] GetAllSports() on controller SportClubProject.UserControllers.SportsController (SportsClubUser).
+2023-11-03 12:08:44.876 +05:30 [INF] entered into get all sports method in sports controller 
+2023-11-03 12:08:44.877 +05:30 [INF] entered into get all sports method in sports repo impl
+2023-11-03 12:08:46.610 +05:30 [INF] Executed DbCommand (22ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[SportId], [s].[SportImageUrl], [s].[SportName], [s].[StadiumsStadiumId], [s].[Status], [c].[CourtId], [c].[CourtImageUrl], [c].[CourtName], [c].[CourtPrice], [c].[SportsSportId], [c].[Status], [c].[category]
+FROM [Sports] AS [s]
+LEFT JOIN [Courts] AS [c] ON [s].[SportId] = [c].[SportsSportId]
+ORDER BY [s].[SportId]
+2023-11-03 12:08:46.688 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Models.Sports, Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-11-03 12:08:46.699 +05:30 [INF] Executed action SportClubProject.UserControllers.SportsController.GetAllSports (SportsClubUser) in 1833.6929ms
+2023-11-03 12:08:46.699 +05:30 [INF] Executed endpoint 'SportClubProject.UserControllers.SportsController.GetAllSports (SportsClubUser)'
+2023-11-03 12:08:46.704 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:55225/api/Sports/getsports - - - 200 - application/json;+charset=utf-8 1844.0084ms

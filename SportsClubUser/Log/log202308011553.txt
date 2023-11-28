@@ -1,0 +1,13 @@
+2023-08-01 15:53:59.543 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:55225/api/Carts/getcarts - -
+2023-08-01 15:53:59.553 +05:30 [INF] Executing endpoint 'SportClubProject.UserControllers.CartsController.GetAllCarts (SportsClubUser)'
+2023-08-01 15:53:59.564 +05:30 [INF] Route matched with {action = "GetAllCarts", controller = "Carts"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[Models.Cart]] GetAllCarts(Int32) on controller SportClubProject.UserControllers.CartsController (SportsClubUser).
+2023-08-01 15:53:59.572 +05:30 [INF] entered into get carts method in carts controller
+2023-08-01 15:53:59.572 +05:30 [INF] entered into get all carts method in carts repo impl
+2023-08-01 15:53:59.652 +05:30 [INF] Executed DbCommand (57ms) [Parameters=[@__userId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[CartId], [c].[CourtImageurl], [c].[CourtName], [c].[Price], [c].[SlotTime], [c].[SportName], [c].[UserId]
+FROM [Carts] AS [c]
+WHERE [c].[UserId] = @__userId_0
+2023-08-01 15:53:59.654 +05:30 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Models.Cart, Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-08-01 15:53:59.655 +05:30 [INF] Executed action SportClubProject.UserControllers.CartsController.GetAllCarts (SportsClubUser) in 90.7838ms
+2023-08-01 15:53:59.655 +05:30 [INF] Executed endpoint 'SportClubProject.UserControllers.CartsController.GetAllCarts (SportsClubUser)'
+2023-08-01 15:53:59.655 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:55225/api/Carts/getcarts - - - 200 - application/json;+charset=utf-8 112.4267ms
