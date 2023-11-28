@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xxez7EYkmMW/M7UqyPYQGz0cNnavtcc7HkA9aWAnMYJ/dmGABkc/PKsmlYyMkO3FBqlJrflzE3LQnWu9r8Lacw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kakar\\OneDrive\\Desktop\\C#\\SportsClubFinal\\SportsClubFinal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kakar\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\kakar\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\kakar\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\kakar\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\kakar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\kakar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
